@@ -3,15 +3,15 @@
   "icon": "icon.png",
   "commands": [
     {
-      "name": "my-command",
-      "identifier": "sketch2fabritor.my-command-identifier",
-      "script": "./my-command.js"
+      "name": "export",
+      "identifier": "sketch2fabritor.export",
+      "script": "./export.js"
     }
   ],
   "menu": {
     "title": "sketch2fabritor",
     "items": [
-      "sketch2fabritor.my-command-identifier"
+      "sketch2fabritor.export"
     ]
   }
 }
